@@ -1,0 +1,12 @@
+.main_text {
+color: blue;
+}
+p {
+color: red;
+}
+#text_in {color: yellow;}
+#d_text_in {color: green}
+
+div p b, div p i {color: orange;}
+div p {color: purple;}
+/* div, .name_class, #id, div p {color: red;} */

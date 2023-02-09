@@ -1,0 +1,16 @@
+/*body {
+background-color: #b770d4;
+background-image: url('https://cdn.oneesports.gg/cdn-data/2022/01/Bleach_AnimeSennenKessenHen.jpg')
+}*/
+
+#first {
+
+background: #b770d4 url('https://image.api.playstation.com/vulcan/ap/rnd/202209/2609/myie86b22dsB7uXlb5V2w8G1.png') no-repeat center center;
+height: 500px;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#second {
+height: 2000px;
+}

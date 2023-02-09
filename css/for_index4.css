@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
+.main_text {color: #000;
+text-align: center; /* right, justify - растянут на всю страницу */
+font-size: 16px; /* em */
+font-style: italic;
+font-weight: normal;
+font-family: 'Rubik Vinyl', cursive;
+
+
+text-tramsform: lowercase;
+word-spacing: 10px;
+letter-spacing: 5px;
+line-height: 50px;
+text-decoration: ;
+cursor: ;
+
+}
